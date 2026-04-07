@@ -1,1 +1,1 @@
-HSO FREE:14.225.208.72:38721:0,
+HSO2 SV1:s1.truongbk.com:19129:0,Lậu 2:14.225.219.171:19129:0,Hiep Si 2D:sv1.hiepsi2d.com:19129:0,Làng Hải Tặc:27.0.14.15:19129:0,Thần Long:103.78.0.166:19129:0,HSO2 SV2:s2.truongbk.com:19129:0,Lậu 6:hs7.teamobi.com:19129:0,Hiệp Sĩ Origin:14.225.219.171:19129:0,HSO FREE:14.225.208.72:38721:0,
